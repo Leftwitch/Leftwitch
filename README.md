@@ -55,6 +55,6 @@ Hey, I'm Justin Guckes a self-taught fullstack-developer!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leftwitch&repo=ngx-gantt&theme=dark" />
 </a>  
 
-<a href="https://github.com/Leftwitch/ngx-gantt">
+<a href="https://github.com/Leftwitch/couchdb-dump">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leftwitch&repo=couchdb-dump&theme=dark" />
 </a>  
