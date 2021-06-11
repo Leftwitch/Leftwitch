@@ -15,7 +15,7 @@
 
 Hey, I'm Justin Guckes a self-taught fullstack-developer!
 
-- 🔭 My Latest OpenSource Project [ngx-gantt](https://github.com/Leftwitch/ngx-gantt)
+- 🔭 My Latest OpenSource Project [CouchDB Dump](https://github.com/Leftwitch/couchdb-dump)
 - 📖 I’m currently learning Rust
 - 👯 I’m currently looking to collaborate on more OpenSource projects or start my own!
 - 💬 Feel Free to conatct me on telegram or [here](https://github.com/leftwitch/leftwitch/issues) on GitHub 
