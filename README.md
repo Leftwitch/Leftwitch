@@ -4,7 +4,7 @@
   <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/2000px-Twitter_bird_logo_2012.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/justin-g-4a18a8146/">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://t.me/Leftwitch">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
