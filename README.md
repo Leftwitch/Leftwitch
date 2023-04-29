@@ -1,7 +1,7 @@
 ### Hi there, I'm [Justin](http://leftwit.ch) 👋
 
 <a href="https://twitter.com/JustinGuckes">
-  <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/2000px-Twitter_bird_logo_2012.svg.png" />
+  <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/250px-Logo_of_Twitter.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/justin-g-4a18a8146/">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
