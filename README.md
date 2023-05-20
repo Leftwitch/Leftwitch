@@ -48,9 +48,3 @@ Hey, I'm Justin Guckes a self-taught fullstack-developer!
 </a>
 
 
-**Projects:**  
-
-
-<a href="https://github.com/Leftwitch/couchdb-dump">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leftwitch&repo=couchdb-dump&theme=dark" />
-</a>  
