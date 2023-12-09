@@ -21,6 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [✨ Building a Todo App with Flutter and OpenAI’s ChatGPT API](https://medium.com/@justin.guckes/building-a-todo-app-with-flutter-and-openais-chatgpt-api-da30dc7237bd?source=rss-3a43a1e50f39------2)
+- [The Future of React: Why Create-React-App is Deprecated and Hooks are the Future](https://blog.bitsrc.io/the-future-of-react-why-create-react-app-is-deprecated-and-hooks-are-the-future-83e8a087a325?source=rss-3a43a1e50f39------2)
+- [A New Way to Write Angular Applications: Standalone Components](https://medium.com/@justin.guckes/a-new-way-to-write-angular-applications-standalone-components-6b59e1323244?source=rss-3a43a1e50f39------2)
+- [An Introduction to the Angular On-Push strategy](https://medium.com/@justin.guckes/an-introduction-to-the-angular-on-push-strategy-f141ce0ebee4?source=rss-3a43a1e50f39------2)
+- [A Simple intro into declarative Angular app development using RxJS](https://medium.com/@justin.guckes/a-simple-intro-into-declarative-angular-app-development-using-rxjs-5de5ee82981?source=rss-3a43a1e50f39------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
