@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **hello@justinguckes.net**
 
-- ⚡ Fun fact **I got a dog named malou :)**
+- ⚡ Fun fact **I got a dog named and her name is Malou :)**
 <hr />
 
 ### Blogs posts
