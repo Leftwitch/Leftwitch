@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
 <h3 align="center">A passionate meta certified frontend developer from Germany</h3>
-<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leftwitch&" alt="leftwitch" /></center>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leftwitch&" alt="leftwitch" /></p>
 
 
 - 🌱 I’m currently learning **Rust, Python**
