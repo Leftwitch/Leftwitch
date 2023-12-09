@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justin </h1>
 <h3 align="center">A passionate meta certified frontend developer from Germany</h3>
 <p>&nbsp;</p>
-<p align="center"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=leftwitch&" alt="leftwitch" /></p>
+<p align="center"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=leftwitch&theme=dark" alt="leftwitch" /></p>
 <hr />
 - 🌱 I’m currently learning **Rust, Python**
 
@@ -40,5 +40,5 @@
 <hr />
 <h3 align="left">Trophys:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leftwitch" alt="leftwitch" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leftwitch&theme=juicyfresh&margin-w=15&margin-h=15" alt="leftwitch" /></a> </p>
 
