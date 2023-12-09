@@ -26,7 +26,7 @@
 - [An Introduction to the Angular On-Push strategy](https://medium.com/@justin.guckes/an-introduction-to-the-angular-on-push-strategy-f141ce0ebee4?source=rss-3a43a1e50f39------2)
 - [A Simple intro into declarative Angular app development using RxJS](https://medium.com/@justin.guckes/a-simple-intro-into-declarative-angular-app-development-using-rxjs-5de5ee82981?source=rss-3a43a1e50f39------2)
 <!-- BLOG-POST-LIST:END -->
-<hr />s
+<hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/justinguckes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justinguckes" height="30" width="40" /></a>
